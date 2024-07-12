@@ -1,7 +1,7 @@
 {
-  "name": "MASTER-MD",
+  "name": "MALSHA-X MD",
   "version": "10.8.1",
-  "description": "Master md whatsApp user bot created by mr sahan ofc",
+  "description": "Malsha-X md whatsApp user bot created by mr sahan ofc",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "restart": "pm2 restart MASTER-MD"
   },
   "keywords": ["master-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Sahan_Pedaa",
+  "author": "Mihiruk",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
