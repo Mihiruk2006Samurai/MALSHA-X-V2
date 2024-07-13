@@ -59,21 +59,21 @@
 
 <br>
 
-<a href="https://master-md-v3-deploy.vercel.app/"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
+<a href="https://malsha_x-md-v2-deploy.vercel.app/"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- [![Sahan](https://img.shields.io/badge/master_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://master-md-v3-deploy.vercel.app/)
+ [![Mihiruk](https://img.shields.io/badge/Malsha_x_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://master-md-v3-deploy.vercel.app/)
 
-[![Sahan](https://img.shields.io/badge/Master_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+[![Mihiruk](https://img.shields.io/badge/Malsha_x_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
-[![Sahan](https://img.shields.io/badge/Master_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![Mihiruk](https://img.shields.io/badge/Malsha_x_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-[![Sahan](https://img.shields.io/badge/Master_deploy_on_codespace-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/codespaces/)
+[![Mihiruk](https://img.shields.io/badge/Malsha_x_deploy_on_codespace-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/codespaces/)
 
-[![Sahan](https://img.shields.io/badge/Master_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![Mihiruk](https://img.shields.io/badge/Malsha_x_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
 
-[![Sahan](https://img.shields.io/badge/Master_deploy_on_scalingo-ADD8E6?style=for-the-badge&logo=scalingo&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.scalingo.com/)
+[![Mihiruk](https://img.shields.io/badge/Malsha_x_deploy_on_scalingo-ADD8E6?style=for-the-badge&logo=scalingo&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.scalingo.com/)
 
 
 
@@ -88,7 +88,7 @@
 ### Contact My Main Owner
  <p align="center">
 
-  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94720797915?text=Hey_Sahan_🔥" target="_blank">
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94766969406?text=Hey_Owner_🔥" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -96,22 +96,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"> 
-𝐌𝐲 𝟑𝐫𝐝 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭</h2>
+𝐌𝐲 2nd 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭</h2>
 
 `Thanks To,`
 
 <p align="left">
-<a href="https://github.com/MrMasterOfc">
-    <img src="https://telegra.ph/file/951c7ead81ade5612d70d.jpg" width="200px">
+<a href="https://github.com/mihiruk1">
+    <img src="https://telegra.ph/file/079faeb6f0093045f4df8.jpg" width="200px">
   </a>
     
-1: [`Mr Sahan Ofc`](https://wa.me/+94720797915)
+1: [`Mr Mihiruk ofc`](https://wa.me/+94766969406)
 <br>
 <p align="left">
-<a href="https://github.com/ravidiadithya">
-    <img src="https://telegra.ph/file/9f2b1fe4fd109d81dfc19.jpg" width="200px">
+<a href="https://github.com/mihiruk1">
+    <img src="https://telegra.ph/file/8eaba08df8e2ea2c8103a.jpg" width="200px">
   </a>
     
-  2: [`Mr Ravindu Ofc`](https://wa.me/+94768680481)
+  2: [`Mr Project 404`](https://wa.me/+94701073037)
 
 
