@@ -12,14 +12,14 @@ const alive = async (m, Matrix) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).toLowerCase() : '';
     if (['alive', 'uptime', 'runtime'].includes(cmd)) {
 
-  const uptimeMessage = `*👨‍💻ＭＡＳＴＥＲ-ＭＤ-Ｖ3 ＩＳ ＡＬＩＶＥ👨‍💻*
+  const uptimeMessage = `*👨‍💻ＭＡＬＳＨＡ Ｘ-ＭＤ-Ｖ2 ＩＳ ＡＬＩＶＥ👨‍💻*
 _________________________________________
 
 *📆 Day: ${days} Day*
 *🕰️Hour: ${hours} Hour*
 *⏳ Minute: ${minutes} Minute*
 *⏲️ Second: ${seconds} Second*
-*👨‍💻Developer: MASTER MIND*
+*👨‍💻Developer:  ＭＲ ＭＩＨＩＲＵＫ*
 _________________________________________
 `;
 
@@ -52,7 +52,7 @@ _________________________________________
             text: uptimeMessage
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ"
+            text: "© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐌ɪʜɪʀᴜᴋ 𝐎ꜰᴄ"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
             title: "",
@@ -69,7 +69,7 @@ _________________________________________
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "MASTER-MD-V3",
+                  newsletterName: "MAlSHA_X-MD-V2",
                   serverMessageId: 143
                 }
               }
