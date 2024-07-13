@@ -3,7 +3,7 @@
 
 
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALSHA-X+MD-V3" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALSHA-X+MD-V2" alt="Typing SVG" /></a>   
 </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -13,8 +13,8 @@
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <a aria-label="MASTER_MD is free to use" href="https://youtube.com/@sahanmaduwantha2006" target="_blank">
-    <img alt="MrMasterOfc Yt" src="https://img.shields.io/youtube/channel/subscribers/UCDB6GZMdSfsmPN9gqxxqnMQ" target="_blank" />
+  <a aria-label="MALSHA-X-V2_MD is free to use" href="https://youtube.com/@sahanmaduwantha2006" target="_blank">
+    <img alt="MRMIHIRUKYT" src="https://img.shields.io/youtube/channel/subscribers/UCDB6GZMdSfsmPN9gqxxqnMQ" target="_blank" />
   </a>
 
 </p>
@@ -33,11 +33,11 @@
  </p>
 
   
-👨‍💻_𝐌𝐀𝐒𝐓𝐄𝐑-𝐌𝐃-𝐕𝟑 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓_👨‍💻
+👨‍💻_𝐌𝐀𝐋𝐒𝐇𝐀 𝐗-𝐌𝐃-𝐕2 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓_👨‍💻
 
-      MASTER-MD-V3 බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
+      MALSHA X-MD-V2 බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
       
-👨‍💻_𝐌𝐀𝐒𝐓𝐄𝐑-𝐌𝐃-𝐕𝟑 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐄𝐌𝐏𝐋𝐀𝐓𝐄_👨‍💻
+👨‍💻_𝐌𝐀𝐋𝐒𝐇𝐀 𝐗-𝐌𝐃-𝐕2 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐄𝐌𝐏𝐋𝐀𝐓𝐄_👨‍💻
 
         https://heroku.com/deploy?template=https://github.com/MrMasterOfc/MASTER-MD-V3
 
@@ -45,17 +45,17 @@
 
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://chat.whatsapp.com/KnkAjmtcTseEzXobrzpPYR" target="_blank">
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <p align="center">
-<a href="https://github.com/MrMasterOfc/MASTER-MD-V3/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/MrMasterOfc/MALSHA X-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://replit.com/@SahanMadu/MASTER-MD-V3-2"><img src="https://img.shields.io/badge/GET-SESSION-black" alt="GET SESSION" width="250"></a>
+<a href="https://replit.com/@Mihiruk/MALSHA_X-MD-V2-2"><img src="https://img.shields.io/badge/GET-SESSION-black" alt="GET SESSION" width="250"></a>
 
 <br>
 
