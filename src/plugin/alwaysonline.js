@@ -13,7 +13,7 @@ const alwaysonlineCommand = async (m, Matrix) => {
     let responseMessage;
 
     if (text === 'on') {
-      config.ALWAYS_ONLINE = true;
+      config.ALWAYS_ONLINE = false;
       responseMessage = "Always Online has been enabled.";
     } else if (text === 'off') {
       config.ALWAYS_ONLINE = false;
